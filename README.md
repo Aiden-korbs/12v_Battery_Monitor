@@ -1,7 +1,11 @@
-# 12v_Battery_Monitor
-A Goal of making a inexpensive open source 12v battery monitor/control panel for camping, 4WD and so on
+## Planned Features
+* **Real-time Monitoring:** Displays Volts, Amps, and Battery Temp.
+* **State of Charge:** Calculates Battery % based on energy in/out (Ah).
+* **Solar Auto-Sync:** Automatically resets drift to 100% when battery hits full charge voltage.
+* **Safety:** Includes temperature monitoring for battery health.
+* **Low Power:** Uses a high-efficiency Buck Converter to power the logic.
 
-# Component List So Far
+## Component List So Far
 
 | **Category**        | **Product Name**                             | **Cat No** | **Price**    | **Notes**                                               |
 | ------------------- | -------------------------------------------- | ---------- | ------------ | ------------------------------------------------------- |
